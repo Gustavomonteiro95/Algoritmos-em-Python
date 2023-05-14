@@ -1,5 +1,5 @@
 
-print('O Algorítmo fará um reajuste automático com base no valor de salário digitado, com porcentagens de 20,15,10 e 5%''/n reajustado a partir da margem dos valores de sarlário:')
+ # O Algorítmo fará um reajuste automático com base no valor de salário digitado, com porcentagens de 20,15,10 e 5%''/n reajustado a partir da margem dos valores de sarlário
 
 
 salarioInicial = float(input('Salario atual? '))
